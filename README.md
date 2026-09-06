@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0175-combine-two-tables) |
 | [0178-rank-scores](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0178-rank-scores) |
+| [0180-consecutive-numbers](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0180-consecutive-numbers) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0262-trips-and-users](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0262-trips-and-users) |
 | [0584-find-customer-referee](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0584-find-customer-referee) |
