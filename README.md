@@ -71,4 +71,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1193-monthly-transactions-i](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/1193-monthly-transactions-i) |
 | [1280-students-and-examinations](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/1280-students-and-examinations) |
 | [1341-movie-rating](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/1341-movie-rating) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Depth-First Search
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
