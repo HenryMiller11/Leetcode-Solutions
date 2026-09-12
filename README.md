@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0460-lfu-cache) |
 | [3483-unique-3-digit-even-numbers](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Bit Manipulation
@@ -115,12 +116,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0460-lfu-cache) |
 ## Design
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
