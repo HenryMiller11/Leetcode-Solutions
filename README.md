@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0485-max-consecutive-ones](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [1032-stream-of-characters](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/1032-stream-of-characters) |
 | [1470-shuffle-the-array](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0115-distinct-subsequences](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0940-distinct-subsequences-ii) |
+| [1032-stream-of-characters](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/1032-stream-of-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0460-lfu-cache) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1032-stream-of-characters](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/1032-stream-of-characters) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -142,4 +145,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1032-stream-of-characters](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/1032-stream-of-characters) |
+## Trie
+|  |
+| ------- |
+| [1032-stream-of-characters](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/1032-stream-of-characters) |
+## Aho–Corasick Algorithm
+|  |
+| ------- |
+| [1032-stream-of-characters](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/1032-stream-of-characters) |
 <!---LeetCode Topics End-->
