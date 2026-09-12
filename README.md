@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0146-lru-cache) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0460-lfu-cache](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0460-lfu-cache) |
 | [3483-unique-3-digit-even-numbers](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Sorting
 |  |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0146-lru-cache) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0460-lfu-cache](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0460-lfu-cache) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1032-stream-of-characters](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/1032-stream-of-characters) |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1032-stream-of-characters](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/1032-stream-of-characters) |
 ## Trie
@@ -154,4 +158,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1032-stream-of-characters](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/1032-stream-of-characters) |
+## Union-Find
+|  |
+| ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
+## Ordered Set
+|  |
+| ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 <!---LeetCode Topics End-->
