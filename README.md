@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0485-max-consecutive-ones](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0835-image-overlap](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0835-image-overlap) |
 | [1032-stream-of-characters](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/1032-stream-of-characters) |
 | [1470-shuffle-the-array](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Database
 |  |
