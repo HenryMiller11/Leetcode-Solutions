@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1032-stream-of-characters](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/1032-stream-of-characters) |
 | [1470-shuffle-the-array](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
+| [2043-simple-bank-system](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/2043-simple-bank-system) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0460-lfu-cache](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0460-lfu-cache) |
+| [2043-simple-bank-system](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/2043-simple-bank-system) |
 | [3483-unique-3-digit-even-numbers](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Bit Manipulation
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
+| [2043-simple-bank-system](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/2043-simple-bank-system) |
 ## Binary Search
 |  |
 | ------- |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0460-lfu-cache) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1032-stream-of-characters](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/1032-stream-of-characters) |
+| [2043-simple-bank-system](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/2043-simple-bank-system) |
 ## Doubly-Linked List
 |  |
 | ------- |
