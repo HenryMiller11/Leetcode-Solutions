@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2043-simple-bank-system](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/2043-simple-bank-system) |
+| [2080-range-frequency-queries](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/2080-range-frequency-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0460-lfu-cache](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0460-lfu-cache) |
 | [2043-simple-bank-system](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/2043-simple-bank-system) |
+| [2080-range-frequency-queries](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/2080-range-frequency-queries) |
 | [3483-unique-3-digit-even-numbers](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Bit Manipulation
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [2080-range-frequency-queries](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/2080-range-frequency-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Sorting
 |  |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0715-range-module](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0715-range-module) |
 | [1032-stream-of-characters](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/1032-stream-of-characters) |
 | [2043-simple-bank-system](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/2043-simple-bank-system) |
+| [2080-range-frequency-queries](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/2080-range-frequency-queries) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -217,4 +221,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0715-range-module](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0715-range-module) |
+| [2080-range-frequency-queries](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/2080-range-frequency-queries) |
 <!---LeetCode Topics End-->
