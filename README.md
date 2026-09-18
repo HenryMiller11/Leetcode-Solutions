@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1032-stream-of-characters](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/1032-stream-of-characters) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0460-lfu-cache](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0460-lfu-cache) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2043-simple-bank-system](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/2043-simple-bank-system) |
 | [2080-range-frequency-queries](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/2080-range-frequency-queries) |
 | [3483-unique-3-digit-even-numbers](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Linked List
 |  |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Combinatorics
 |  |
