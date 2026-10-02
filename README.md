@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0485-max-consecutive-ones](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0940-distinct-subsequences-ii](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
