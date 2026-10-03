@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Recursion
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Heap (Priority Queue)
 |  |
@@ -316,4 +320,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
