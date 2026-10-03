@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0836-rectangle-overlap](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
