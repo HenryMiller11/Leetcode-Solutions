@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0146-lru-cache](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
