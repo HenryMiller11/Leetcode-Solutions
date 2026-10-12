@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0485-max-consecutive-ones](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0355-design-twitter](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [1096-brace-expansion-ii](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -359,4 +362,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
