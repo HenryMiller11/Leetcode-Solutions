@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0066-plus-one](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0268-missing-number) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
