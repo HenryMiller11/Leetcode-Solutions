@@ -1,5 +1,5 @@
 # Write your MySQL query statement below
-select
+select 
     name,
     population,
     area
