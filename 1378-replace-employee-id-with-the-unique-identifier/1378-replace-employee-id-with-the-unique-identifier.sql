@@ -1,5 +1,5 @@
 # Write your MySQL query statement below
-select
+select 
     eu.unique_id,
     e.name
 from Employees e
