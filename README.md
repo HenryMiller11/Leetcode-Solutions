@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1045-customers-who-bought-all-products](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/1045-customers-who-bought-all-products) |
 | [1068-product-sales-analysis-i](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/1068-product-sales-analysis-i) |
 | [1070-product-sales-analysis-iii](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/1070-product-sales-analysis-iii) |
+| [1075-project-employees-i](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/1075-project-employees-i) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/1148-article-views-i) |
 | [1193-monthly-transactions-i](https://github.com/HenryMiller11/Leetcode-Solutions/tree/master/1193-monthly-transactions-i) |
