@@ -1,14 +1,16 @@
 # Write your MySQL query statement below
-SELECT
+with cte as(
+    select *,
+    dense_rank() over(
+        partition by product_id
+        order by year
+    ) as rnk
+    from Sales
+)
+select 
     product_id,
-    year AS first_year,
+    year as first_year,
     quantity,
     price
-FROM Sales
-WHERE (product_id, year) IN (
-    SELECT
-        product_id,
-        MIN(year)
-    FROM Sales
-    GROUP BY product_id
-);
+from cte
+where rnk = 1
